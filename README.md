@@ -1,11 +1,8 @@
-## Pug-Sass Starter project.
+## Angels Broker Landing Page.
 
 [![Build Status][travis-image]][travis-url]
 
 This is a Pug and Sass starter project using gulp for task automation.
-
-### Note
-If you still need Jade support use [this](https://github.com/azemoh/gulp-jade-sass-starter) project instead.
 
 This project uses...
 
@@ -18,6 +15,3 @@ This project uses...
 ### To run
 - Execute `npm install` from this directory to install dev dependencies.
 - Execute `gulp` to run all tasks, launch the browser sync local server and watch for changes.
-
-[travis-url]: https://travis-ci.org/azemoh/gulp-pug-sass-seed
-[travis-image]: https://travis-ci.org/azemoh/gulp-pug-sass-seed.svg

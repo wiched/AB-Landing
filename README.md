@@ -1,7 +1,5 @@
 ## Angels Broker Landing Page.
 
-[![Build Status][travis-image]][travis-url]
-
 This is a Pug and Sass starter project using gulp for task automation.
 
 This project uses...

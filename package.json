@@ -1,0 +1,34 @@
+{
+  "name": "Angels-Broker-Landing-page",
+  "version": "1.0.0",
+  "description": "Landing page for Angels Broker wesite",
+  "main": "gulpfile.js",
+  "author": "Lubo Jordanov <lubo@finedigital.co.uk> (http://finedigital.co.uk)",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.9.3",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.1",
+    "gulp-data": "^1.2.0",
+    "gulp-pug": "^3.0.3",
+    "gulp-sass": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azemoh/gulp-pug-sass-seed.git"
+  },
+  "keywords": [
+    "jade",
+    "gulp",
+    "pug",
+    "sass",
+    "browsersync"
+  ],
+  "dependencies": {
+    "wow.js": "^1.2.2"
+  }
+}
